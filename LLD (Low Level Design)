@@ -1,0 +1,25 @@
+Subscriber
+    |
+INVITE
+    |
+P-CSCF
+    |
+I-CSCF
+    |
+S-CSCF
+    |
+Application Server
+    |
+SIP INVITE
+    |
+MRFC
+    |
+H.248
+    |
+MRFP
+    |
+Play Announcement
+    |
+RTP Stream
+    |
+Subscriber
