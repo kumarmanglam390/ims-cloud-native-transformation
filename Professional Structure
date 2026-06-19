@@ -1,0 +1,18 @@
+ims-mrf-deployment
+
+├── diagrams
+│   ├── HLD.png
+│   ├── LLD.png
+│   ├── Deployment_Flow.png
+│   └── ims-mrf-deployment.drawio
+│
+├── docs
+│   ├── HLD.md
+│   ├── LLD.md
+│   └── Deployment_Guide.md
+│
+├── automation
+│   ├── deploy.sh
+│   └── pipeline.yml
+│
+└── README.md
