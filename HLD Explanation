@@ -1,0 +1,19 @@
+P-CSCF
+
+User ka first contact point.
+
+I-CSCF
+
+Subscriber locate karta hai.
+
+S-CSCF
+
+Session control karta hai.
+
+Application Server
+
+Call logic execute karta hai.
+
+MRF
+
+Media announcement, IVR, conferencing.
