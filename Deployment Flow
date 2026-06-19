@@ -1,0 +1,19 @@
+GitHub
+   |
+   v
+CI/CD Pipeline
+   |
+   v
+Build Package
+   |
+   v
+Docker Image
+   |
+   v
+Kubernetes Cluster
+   |
+   v
+MRF Pod
+   |
+   v
+IMS Network
